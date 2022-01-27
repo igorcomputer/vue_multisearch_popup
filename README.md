@@ -1,4 +1,4 @@
-# complexbar.ru - multysearch_popup vidget (rest api from multisearch.io)
+# complexbar.ru -- multysearch_popup vidget (rest api from multisearch.io)
 
 ## Project setup 
 ```

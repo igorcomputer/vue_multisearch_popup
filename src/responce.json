@@ -1,0 +1,526 @@
+{
+  "query": "бокал",
+  "total": 2660,
+  "results": {
+    "item_groups": [
+      {
+        "category": {
+          "name": "Бокалы для вина",
+          "id": "4204",
+          "url": "https://www.complexbar.ru/catalog/bokaly-dlya-vina/",
+          "count": 703
+        },
+        "items": [
+          {
+            "id": "1508248",
+            "price": "484",
+            "is_presence": true,
+            "name": "Бокалы для вина Bormioli Luigi Bormioli Luigi",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Bormioli Luigi",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-vina/p01050712/",
+            "picture": "https://complexbar.ru/upload/iblock/d58/d58870b037e88693aae57874fcfdf805.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508249",
+            "price": "392",
+            "is_presence": true,
+            "name": "Бокалы для вина Libbey Libbey",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Libbey",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-vina/p01050243/",
+            "picture": "https://complexbar.ru/upload/iblock/0d1/0d1dcfbee8160c763a7e3fe2b2c4526d.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508250",
+            "price": "548",
+            "is_presence": true,
+            "name": "Бокалы для вина Libbey Libbey",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Libbey",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-vina/p01051257/",
+            "picture": "https://complexbar.ru/upload/iblock/a41/a419a10134ced9d185188382e1638fd1.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508251",
+            "price": "465",
+            "is_presence": true,
+            "name": "Бокалы для вина Libbey Libbey",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Libbey",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-vina/p01051258/",
+            "picture": "https://complexbar.ru/upload/iblock/ff3/ff3a1c9c050b8d76e458e976b42cd780.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "name": "Бокалы для шампанского",
+          "id": "4205",
+          "url": "https://www.complexbar.ru/catalog/bokaly-dlya-shampanskogo/",
+          "count": 242
+        },
+        "items": [
+          {
+            "id": "1508142",
+            "price": "96",
+            "is_presence": true,
+            "name": "Бокалы для шампанского Pasabahce Pasabahce",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Pasabahce",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-shampanskogo/p01051266/",
+            "picture": "https://complexbar.ru/upload/iblock/8aa/8aa7ecdee9e59020814e4dcb036cfcee.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508258",
+            "price": "155",
+            "is_presence": true,
+            "name": "Бокалы для шампанского Crisal Crisal",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Crisal",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-shampanskogo/p01051265/",
+            "picture": "https://complexbar.ru/upload/iblock/412/412cbcb37146cd7801e9d09a7f4c3d0c.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508357",
+            "price": "791",
+            "is_presence": true,
+            "name": "Бокалы для шампанского Schott Zwiesel Schott Zwiesel",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Schott Zwiesel",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-shampanskogo/p01051278/",
+            "picture": "https://complexbar.ru/upload/iblock/e46/e460d5bc9042845c526059e322ec4620.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508394",
+            "price": "432",
+            "is_presence": true,
+            "name": "Бокалы для шампанского Shot Zwiesel Shot Zwiesel",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Shot Zwiesel",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-shampanskogo/p01060643/",
+            "picture": "https://complexbar.ru/upload/iblock/2a4/2a4d99d54176a960b8792218e969a015.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "name": "Бокалы для горячего",
+          "id": "4212",
+          "url": "https://www.complexbar.ru/catalog/bokaly-dlya-goryachego/",
+          "count": 133
+        },
+        "items": [
+          {
+            "id": "1508339",
+            "price": "1134",
+            "is_presence": true,
+            "name": "Бокалы для горячего Revol Revol",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Revol",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-goryachego/p01011053/",
+            "picture": "https://complexbar.ru/upload/iblock/43e/43e0e615c8c771c1562bfc3a1d8b50b2.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508340",
+            "price": "1524",
+            "is_presence": true,
+            "name": "Бокалы для горячего Revol Revol",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Revol",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-goryachego/p01011054/",
+            "picture": "https://complexbar.ru/upload/iblock/5a8/5a84f651f0268d59955a20c608ea49f1.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508379",
+            "price": "389",
+            "is_presence": true,
+            "name": "Бокалы для горячего Arcoroc Arcoroc",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Arcoroc",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-goryachego/p03141244/",
+            "picture": "https://complexbar.ru/upload/iblock/3bf/3bf0ee488ac7a67c9bab104fe27af023.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508627",
+            "price": "293",
+            "is_presence": true,
+            "name": "Бокалы для горячего Serax Serax",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Serax",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-goryachego/p03130710/",
+            "picture": "https://complexbar.ru/upload/iblock/a51/a517f3894278532d0b0103be391a8544.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "name": "Бокалы для пива",
+          "id": "4230",
+          "url": "https://www.complexbar.ru/catalog/bokaly-dlya-piva/",
+          "count": 125
+        },
+        "items": [
+          {
+            "id": "1508076",
+            "price": "492",
+            "is_presence": true,
+            "name": "Бокалы для пива Schott Zwiesel Schott Zwiesel",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Schott Zwiesel",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-piva/p01120538/",
+            "picture": "https://complexbar.ru/upload/iblock/528/52808a21d323166aa9721bcb58974b38.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508287",
+            "price": "261",
+            "is_presence": true,
+            "name": "Бокалы для пива Crisal Crisal",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Crisal",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-piva/p01120448/",
+            "picture": "https://complexbar.ru/upload/iblock/f46/f46b7412b6d9aeb1848c438ea5dcbab1.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508288",
+            "price": "426",
+            "is_presence": true,
+            "name": "Бокалы для пива Libbey Libbey",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Libbey",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-piva/p01120449/",
+            "picture": "https://complexbar.ru/upload/iblock/6d3/6d38344c8ebfdd382f72ec4e67f597b5.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1508289",
+            "price": "260",
+            "is_presence": true,
+            "name": "Бокалы для пива Crisal Crisal",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Crisal",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-piva/p01120451/",
+            "picture": "https://complexbar.ru/upload/iblock/dc1/dc18d0fe01f6fc984217e2bd424af359.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "name": "Бокалы для мартини",
+          "id": "4218",
+          "url": "https://www.complexbar.ru/catalog/bokaly-dlya-martini/",
+          "count": 79
+        },
+        "items": [
+          {
+            "id": "1508507",
+            "price": "1769",
+            "is_presence": true,
+            "name": "Бокалы для мартини Rona Rona",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Rona",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-martini/p01030755/",
+            "picture": "https://complexbar.ru/upload/iblock/343/34332716793587b9084ae7e004bfc97e.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1509060",
+            "price": "4493",
+            "is_presence": true,
+            "name": "Бокалы для мартини Zwiesel 1872 Zwiesel 1872",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Zwiesel 1872",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-martini/p01060486/",
+            "picture": "https://complexbar.ru/upload/iblock/579/5790dc136e96b33db14c2be44d2f73fe.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1509061",
+            "price": "3870",
+            "is_presence": true,
+            "name": "Бокалы для мартини Zwiesel 1872 Zwiesel 1872",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Zwiesel 1872",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-martini/p01030742/",
+            "picture": "https://complexbar.ru/upload/iblock/6b6/6b6d4c8156e935e853d9cf6e83c3e05f.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1514959",
+            "price": "313",
+            "is_presence": true,
+            "name": "Бокалы для мартини Libbey Libbey",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Libbey",
+            "url": "https://complexbar.ru/catalog/bokaly-dlya-martini/p01030609/",
+            "picture": "https://complexbar.ru/upload/iblock/cb0/cb09c7cafe0cdc0305fa40576b927a3d.png",
+            "offer_type": [],
+            "oldprice": ""
+          }
+        ]
+      },
+      {
+        "category": {
+          "name": "Кассеты для бокалов",
+          "id": "4601",
+          "url": "https://www.complexbar.ru/catalog/kassety-dlya-bokalov/",
+          "count": 64
+        },
+        "items": [
+          {
+            "id": "1508419",
+            "price": "6427",
+            "is_presence": true,
+            "name": "Кассеты для бокалов Cambro Cambro",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Cambro",
+            "url": "https://complexbar.ru/catalog/kassety-dlya-bokalov/p04121219/",
+            "picture": "https://complexbar.ru/upload/iblock/b2c/b2c40b0b0dfa6819615e7acf8918684a.jpg",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1514141",
+            "price": "1244",
+            "is_presence": true,
+            "name": "Кассеты для бокалов Traex Traex",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Traex",
+            "url": "https://complexbar.ru/catalog/kassety-dlya-bokalov/p04121021/",
+            "picture": "https://complexbar.ru/upload/iblock/98d/98d2e3ad827a2f4c749a065bf9ceea81.png",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1514142",
+            "price": "1244",
+            "is_presence": true,
+            "name": "Кассеты для бокалов Traex Traex",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Traex",
+            "url": "https://complexbar.ru/catalog/kassety-dlya-bokalov/p04121022/",
+            "picture": "https://complexbar.ru/upload/iblock/a19/a199e856efd1638d768b9a0d32f2509e.png",
+            "offer_type": [],
+            "oldprice": ""
+          },
+          {
+            "id": "1514143",
+            "price": "1026",
+            "is_presence": true,
+            "name": "Кассеты для бокалов Traex Traex",
+            "params_data": {},
+            "currency": "руб.",
+            "type": "offer",
+            "brand": "Traex",
+            "url": "https://complexbar.ru/catalog/kassety-dlya-bokalov/p04121024/",
+            "picture": "https://complexbar.ru/upload/iblock/452/452140b8c3f08b8acc8cdb763d097f80.png",
+            "offer_type": [],
+            "oldprice": ""
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "name": "Бокалы для вина",
+        "id": "4204",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-vina/",
+        "count": 703
+      },
+      {
+        "name": "Бокалы для шампанского",
+        "id": "4205",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-shampanskogo/",
+        "count": 242
+      },
+      {
+        "name": "Бокалы для горячего",
+        "id": "4212",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-goryachego/",
+        "count": 133
+      },
+      {
+        "name": "Бокалы для пива",
+        "id": "4230",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-piva/",
+        "count": 125
+      },
+      {
+        "name": "Бокалы для мартини",
+        "id": "4218",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-martini/",
+        "count": 79
+      },
+      {
+        "name": "Кассеты для бокалов",
+        "id": "4601",
+        "url": "https://www.complexbar.ru/catalog/kassety-dlya-bokalov/",
+        "count": 64
+      },
+      {
+        "name": "Бокалы для бренди",
+        "id": "4206",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-brendi/",
+        "count": 56
+      },
+      {
+        "name": "Бокалы для коктейлей",
+        "id": "4222",
+        "url": "https://www.complexbar.ru/catalog/bokaly-dlya-kokteyley/",
+        "count": 35
+      },
+      {
+        "name": "Бокалы для маргариты",
+        "id": "4219",
+        "url": "https://www.complexbar.ru/catalog/bokaly-margarita/",
+        "count": 17
+      },
+      {
+        "name": "Клипсы и прищепки для бокалов",
+        "id": "4352",
+        "url": "https://www.complexbar.ru/catalog/klipsy-i-prishchepki-dlya-bokalov/",
+        "count": 11
+      },
+      {
+        "name": "Направляющие для бокалов",
+        "id": "4514",
+        "url": "https://www.complexbar.ru/catalog/napravlyayushchie-dlya-bokalov/",
+        "count": 8
+      },
+      {
+        "name": "Чашки чайные",
+        "id": "4209",
+        "url": "https://www.complexbar.ru/catalog/chashki-chaynye/",
+        "count": 472
+      },
+      {
+        "name": "Чашки кофейные",
+        "id": "4210",
+        "url": "https://www.complexbar.ru/catalog/chashki-kofeynye/",
+        "count": 280
+      },
+      {
+        "name": "Кружки",
+        "id": "4211",
+        "url": "https://www.complexbar.ru/catalog/krujki/",
+        "count": 207
+      },
+      {
+        "name": "Стаканы для коктейлей",
+        "id": "4224",
+        "url": "https://www.complexbar.ru/catalog/stakany-dlya-kokteyley/",
+        "count": 80
+      },
+      {
+        "name": "Кружки для пива",
+        "id": "4231",
+        "url": "https://www.complexbar.ru/catalog/krujki-dlya-piva/",
+        "count": 65
+      },
+      {
+        "name": "Кружки стеклянные",
+        "id": "4208",
+        "url": "https://www.complexbar.ru/catalog/krujki-steklyannye/",
+        "count": 55
+      },
+      {
+        "name": "Кружки для коктейлей",
+        "id": "4223",
+        "url": "https://www.complexbar.ru/catalog/krujki-dlya-kokteyley/",
+        "count": 16
+      },
+      {
+        "name": "Вазы декоративные",
+        "id": "4652",
+        "url": "https://www.complexbar.ru/catalog/vazy-dekorativnye/",
+        "count": 9
+      },
+      {
+        "name": "Емкости для охлаждения",
+        "id": "4325",
+        "url": "https://www.complexbar.ru/catalog/emkosti-dlya-ohlajdeniya/",
+        "count": 3
+      }
+    ]
+  }
+}

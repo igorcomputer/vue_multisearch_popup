@@ -1,6 +1,6 @@
 # complexbar.ru -- multysearch_popup vidget (rest api from multisearch.io)
 
-## Project setup 
+## Project setup
 ```
 npm install
 ```

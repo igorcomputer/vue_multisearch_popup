@@ -1,7 +1,12 @@
 <template>
-  <div v-if="getPageCount > 1" class="pagination">
-    <a class="pagi-btn pagi-back" :class="{'inactive':isPageFirst===true}" @click="toPrevPage"></a>
-    <a class="pagi-btn pagi-next" :class="{'inactive':isPageLast===true}" @click="toNextPage"></a>
+  <div>
+    <div v-if="getPageCount > 1" class="pagination-desc">
+      Страница {{ getCurrentPage }} из {{ getPageCount }}
+    </div>
+    <div v-if="getPageCount > 1" class="pagination">
+      <a class="pagi-btn pagi-back" :class="{'inactive':isPageFirst===true}" @click="toPrevPage"></a>
+      <a class="pagi-btn pagi-next" :class="{'inactive':isPageLast===true}" @click="toNextPage"></a>
+    </div>
   </div>
 </template>
 
@@ -46,6 +51,9 @@ export default {
     ...mapGetters(['ITEM_GROUPS']),
     ...mapGetters(['CATEGORY_ID']),
     ...mapGetters(['PAGE']),
+    getCurrentPage(){
+      return this.PAGE ?? 1;
+    },
     getPageCount(){
       let pageCountItems = 13;// Кол-во элементов на странице
       return Math.ceil(this.getCountItems / pageCountItems);

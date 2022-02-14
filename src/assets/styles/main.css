@@ -460,10 +460,17 @@
 }
 
 .mss .pagination {
-    margin-top: 40px;
+    margin: 0 !important;
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
+}
+
+.mss .pagination-desc {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #5a5555;
 }
 
 .mss .pagi-btn {
@@ -596,6 +603,66 @@
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-between;
+    position: relative;
+}
+
+.mss .cat-prod-item-avail {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    width: 13px;
+    height: 19px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.mss .xavail-indicator {
+    position: relative;
+}
+
+.mss .xavail-indicator-wrap {
+    position: absolute;
+    display: inline-block;
+    margin-left: 0;
+    width: 10px;
+    height: 12px;
+    right: 0;
+    top: 2px;
+}
+
+.mss .xavail-indicator-inner {
+    display: none;
+}
+
+.mss .xavail-indicator:hover .xavail-indicator-inner {
+    display: block;
+    position: absolute;
+    padding: 5px;
+    border: 1px solid silver;
+    z-index: 10;
+    top: -23px;
+    background: #fff;
+    width: 102px;
+    text-align: center;
+    right: 15px;
+    font-weight: normal;
+    color: #555;
+}
+
+.mss .ni_000 {
+    background: url(../img/ico/n000x.png) no-repeat center center;
+}
+
+.mss .ni_1_10 {
+    background: url(../img/ico/n1_10.png) no-repeat center center;
+}
+
+.mss .ni_11_100 {
+    background: url(../img/ico/n11_100.png) no-repeat center center;
+}
+
+.mss .ni_101 {
+    background: url(../img/ico/n101.png) no-repeat center center;
 }
 
 .mss .cat-prod-item-desc {
